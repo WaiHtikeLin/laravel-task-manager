@@ -34,3 +34,6 @@ php artisan migrate
  ```
 php artisan serve
 ```
+
+Referrences
+https://www.w3schools.com/html/html5_draganddrop.asp

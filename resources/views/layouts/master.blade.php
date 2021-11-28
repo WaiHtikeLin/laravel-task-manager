@@ -23,7 +23,14 @@
         <a href="/">Home</a>
 
         <a href="/projects">Projects</a>
+
+        <a href="javascript:;" onclick="document.querySelector('#logout_form').submit()">Logout</a>
       </nav>
+
+      <form class="" action="/logout" method="post" id="logout_form">
+        @csrf
+      </form>
+
       <br><br>
         <div>
           @yield('content')

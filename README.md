@@ -2,17 +2,17 @@
 
 Basic Task Manager App written using laravel framework (v8.x). It's mostly emphasized in backend (But I used tailwind for authentication because I installed laravel breeze for simple authentication). You can use any frontend framework if you want to.
 
-### Steps to use the app
+### Steps to use the app 
 
 1. Clone the repository.
 
-2. Install composer dependencies
+2. Install dependencies using composer
 
 ```
 composer install
 ```
 
-If you don't have composer, go to https://getcomposer.org/download/ and follow the instructions.
+If you don't have composer, go to https://getcomposer.org/download/ and can follow the instructions.
 
 3. Create New Mysql Database
 
